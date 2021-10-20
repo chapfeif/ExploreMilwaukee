@@ -1,0 +1,347 @@
+@charset "UTF-8";
+body{
+	padding:0;
+	margin:0;
+}
+
+img{
+	position:absolute;
+}
+.trophy2{
+	opacity:0;
+	transition: opacity 0.15s;
+	left: 450px;
+}
+.trophy2:hover{
+	opacity: 1;
+}
+.green{
+	width:710;
+}
+.back{
+	left: 450px;
+}
+.paint{
+	opacity: 0;
+	transition: opacity 0.15s;
+  left: 549px;
+  top: 644px;
+  z-index: 2
+
+}
+.paint:hover{
+	opacity: 1;
+}
+.khris{
+  left: 941px;
+  top: 685px;
+  width: 149px;
+  height: 219px;
+  z-index: 3;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.khris:hover{
+	opacity:1;
+}
+.jrue {
+  left: 410px;
+  top: 706px;
+  width: 161px;
+  height: 210px;
+  z-index: 6;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.jrue:hover{
+	opacity: 1;
+}
+.dante{
+  left: 479px;
+  top: 700px;
+  width: 178px;
+  height: 215px;
+  z-index: 5;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.dante:hover{
+	opacity: 1;
+}
+.lopez{
+  left: 821px;
+  top: 671px;
+  width: 187px;
+  height: 235px;
+  z-index: 4;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.lopez:hover{
+	opacity: 1;
+}
+
+
+.text3{
+  left: 1434px;
+  top: 221px;
+  width: 521px;
+  height: 214px;
+  z-index: 4;
+}
+
+.text4{
+	opacity: 0;
+	transition: opacity 0.15s;
+	left: 1434px;
+  	top: 221px;
+ 	width: 521px;
+  	height: 214px;
+  	z-index: 5;
+}
+.text4:hover{
+	opacity: 5;
+}
+.text1{
+  left: 1779px;
+  top: 1028px;
+  width: 890px;
+  height: 258px;
+  z-index: 3;
+}
+.text11 {
+  left: 1779px;
+  top: 1028px;
+  width: 890px;
+  height: 258px;
+  z-index: 3;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.text11:hover{
+	opacity: 1;
+}
+
+.BL{
+  left: 6px;
+  top: 450px;
+  z-index: 4;
+}
+.text5{
+  left: 971px;
+  top: 133px;
+  z-index: 4
+
+}
+.dot{
+  left: 905px;
+  top: 202px;
+  z-index: 2;
+
+}
+.dot2{
+	left: 905px;
+ 	top: 202px;
+ 	z-index: 2;
+	opacity: 0;
+	transition: opacity 0.15s;
+}
+.dot2:hover{
+	opacity:1;
+}
+.pin1{
+  left: 1624px;
+  top: 330px;
+  width: 96px;
+  height: 170px;
+  z-index: 2;
+}
+.pin2{
+  left: 794px;
+  top: 500px;
+  width: 96px;
+  height: 170px;
+  z-index: 3;
+}
+.pin3{
+  position: absolute;
+  left: 1463px;
+  top: 231px;
+  width: 96px;
+  height: 170px;
+  z-index: 4;
+}
+
+.box {
+  left: 530px;
+  top: 522px;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.box:hover{
+	opacity:1;
+}
+
+.center {
+  left: 694px;
+  top: 430px;
+  width: 282px;
+  height: 142px;
+  z-index: 3;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.center:hover{
+	opacity:1;
+}
+
+.box2{
+  left: 908px;
+  top: 335px;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.box2:hover{
+	opacity:1;
+}
+
+.heart1{
+  left: 212px;
+  top: 686px;
+  z-index: 3;
+}
+.heart2{
+  left: 212px;
+  top: 686px;
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 4;
+}
+.heart2:hover{
+	opacity:1;
+}
+.love1{
+  left: 1602px;
+  top: 890px;
+  width: 271px;
+  height: 326px;
+  z-index: 2;
+}
+.love2{
+  left: 1602px;
+  top: 890px;
+  width: 271px;
+  height: 326px;
+  z-index: 3;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.love2:hover{
+	opacity: 1;
+}
+.bubble{
+  left: 800px;
+  top: 427px;
+  width: 245px;
+  height: 194px;
+  z-index: 2;
+}
+.look{
+  left: 777px;
+  top: 879px;
+  width: 280px;
+  height: 79px;
+  z-index: 3;
+}
+.look2 {
+  left: 777px;
+  top: 879px;
+  width: 280px;
+  height: 79px;
+  z-index: 3;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.look2:hover{
+	opacity: 1;
+}
+.explore{
+  left: -1px;
+  top: 22px;
+  width: 876px;
+  height: 100px;
+  z-index: 4;
+}
+.explore2{
+  left: -1px;
+  top: 22px;
+  width: 876px;
+  height: 100px;
+  z-index: 5;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.explore2:hover{
+	opacity:1;
+}
+.location{
+	z-index: 1;
+}
+.heart3{
+  left: 1432px;
+  top: 231px;
+  width: 158px;
+  height: 174px;
+  z-index: 98;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.heart3:hover{
+	opacity: 1;
+}
+.heart4{
+  left: 1613px;
+  top: 340px;
+  width: 159px;
+  height: 173px;
+  z-index: 13;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.heart4:hover{
+	opacity:1;
+}
+.ant34{
+  left: 1355px;
+  top: 545px;
+  width: 538px;
+  height: 535px;
+  z-index: 3;
+
+}
+
+
+.title3{
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.title3:hover{
+	opacity:1;
+}
+.wings{
+  left: 50px;
+  top: 327px;
+  width: 1695px;
+  height: 474px;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+.wings:hover{
+	opacity: 1;
+}
+
+
+
